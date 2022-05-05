@@ -1,0 +1,4 @@
+- 👋 Hi, I’m patch
+- 👀 I’m interested in NodeJS, C++ & C#
+- 🌱 I’m currently learning Python
+- 📫 Reach me on Discord; patch#1339
